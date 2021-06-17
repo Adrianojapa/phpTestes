@@ -1,2 +1,2 @@
 # phpTestes
- Estudos sobre a linguagem
+ testes em php
